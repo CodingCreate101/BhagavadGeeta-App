@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/BhagavadGeeta-App/precache-manifest.932c3c3f2e5b2b2d41a7ebdab5ca24e7.js"
+  "/BhagavadGeeta-App/precache-manifest.15db2290da6f07acf80c0e1558f26336.js"
 );
 
 self.addEventListener('message', (event) => {
