@@ -1,6 +1,6 @@
 import React from 'react';
 import ChapterList from './components/ChapterList';
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import { HashRouter as Router, Route, Switch } from 'react-router-dom';
 import Header from './components/Header';
 import Settings from './components/Settings';
 import SettingsContextProvider from './data/chapters/SettingsContext';
