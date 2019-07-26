@@ -1,0 +1,92 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.headings {
+  text-align: center;
+  font-size: 30px;
+  display: block;
+  line-height: 45px;
+  margin-top: 20px;
+}
+
+.verse {
+  text-align: center;
+  font-weight: bold;
+  padding: 10px;
+  font-size: 18px;
+  text-shadow: 7px 7px 5px #0005;
+}
+
+.transliteration {
+  text-align: center;
+  font-size: 16px;
+  padding: 10px;
+}
+
+div#select-chapter, div#select-verse {
+ 
+  margin-bottom: 0px;
+  font-size: 18px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+svg.MuiSvgIcon-root.MuiSelect-icon {
+  padding: 0;
+  color: #fff;
+  display: none;
+
+}
+
+.MuiInputBase-inputSelect {
+  padding-left: 10px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.MuiInput-underline:before {
+  display: none;
+}
+
+.wordToWord, .translation {
+  text-align: justify;
+  font-size: 16px;
+  padding: 10px;
+}
+
+#root {
+  background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+  background-attachment:fixed;
+  min-height: 100vh;
+}
+
+.floatButton {
+  bottom: 20%;
+  background: #0005 !important;
+}
+.floatButton:hover {
+  background: #06f !important;
+}
+.floatLeft {
+  left: 5%;
+}
+.floatRight {
+  right: 5%;
+}
+
+.saveButton {
+  float: right;
+}
