@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BhagavadGeeta-App/static/css/main.c2b2bb00.chunk.css",
+    "main.js": "/BhagavadGeeta-App/static/js/main.364826b1.chunk.js",
+    "main.js.map": "/BhagavadGeeta-App/static/js/main.364826b1.chunk.js.map",
+    "runtime~main.js": "/BhagavadGeeta-App/static/js/runtime~main.08eec82e.js",
+    "runtime~main.js.map": "/BhagavadGeeta-App/static/js/runtime~main.08eec82e.js.map",
+    "static/js/2.24c52790.chunk.js": "/BhagavadGeeta-App/static/js/2.24c52790.chunk.js",
+    "static/js/2.24c52790.chunk.js.map": "/BhagavadGeeta-App/static/js/2.24c52790.chunk.js.map",
+    "index.html": "/BhagavadGeeta-App/index.html",
+    "precache-manifest.932c3c3f2e5b2b2d41a7ebdab5ca24e7.js": "/BhagavadGeeta-App/precache-manifest.932c3c3f2e5b2b2d41a7ebdab5ca24e7.js",
+    "service-worker.js": "/BhagavadGeeta-App/service-worker.js",
+    "static/css/main.c2b2bb00.chunk.css.map": "/BhagavadGeeta-App/static/css/main.c2b2bb00.chunk.css.map"
+  }
+}
