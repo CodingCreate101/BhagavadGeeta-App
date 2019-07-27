@@ -1,68 +1,57 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Hello there!
 
-In the project directory, you can run:
+## How to use?
 
-### `npm start`
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
 
-### `npm test`
+1. Open [this link](https://codingcreate101.github.io/BhagavadGeeta-App/) on Chrome on your cellphone -
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+    Link: [https://codingcreate101.github.io/BhagavadGeeta-App/](https://codingcreate101.github.io/BhagavadGeeta-App/)
 
-### `npm run build`
+    You can directly use on Chrome, however, follow along for more convenient method.
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+    !["Steps"](https://github.com/CodingCreate101/BhagavadGeeta-App/blob/master/screenShots/Steps_Final.png "Steps to use")
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+1. Tap on Menu button(three-vertical dots) at `top-right-corner` of Chrome App.
+1. Tap on `Add to Home screen` option.
+1. Tap `Add` on a new pop-up.
+1. Tap `ADD` again.
+1. That's it. Go back to your home screen and you should be able to see a new App Icon(refer images).
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+**Alrighty! Now you can use this 'App' as any regular application on your smart-phone. No need to update, even works offline.**
 
-### `npm run eject`
+----
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Technologies Used:
+1. ReactJS
+    1. State management with React Context
+    1. Life cycle methods
+    1. React hooks
+1. Material UI for React
+1. Custom CSS - Buttons, Navigation, NavBar.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+1. Host: Github pages
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+----
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## To contribute or reuse:
+Please consider adding more languages and submit merge request.
 
-## Learn More
+This project was created with [create-react-app](https://github.com/facebook/create-react-app). Thanks to amazing people at Facebook.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+1. Clone
+    > `git clone https://github.com/CodingCreate101/BhagavadGeeta-App.git`
+1. Download packages
+    > `cd BhagavadGeeta-App.git`
+    > `npm install`
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+1. Start building!
+    > `npm start`
 
-### Code Splitting
+1. To publish
+    > `npm run build`
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
 
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+---
