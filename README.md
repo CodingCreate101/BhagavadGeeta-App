@@ -4,8 +4,6 @@
 ## How to use?
 
 
-
-
 1. Open [this link](https://codingcreate101.github.io/BhagavadGeeta-App/) on Chrome on your cellphone -
 
     Link: [https://codingcreate101.github.io/BhagavadGeeta-App/](https://codingcreate101.github.io/BhagavadGeeta-App/)
@@ -45,6 +43,7 @@ This project was created with [create-react-app](https://github.com/facebook/cre
     > `git clone https://github.com/CodingCreate101/BhagavadGeeta-App.git`
 1. Download packages
     > `cd BhagavadGeeta-App.git`
+    
     > `npm install`
 
 1. Start building!
